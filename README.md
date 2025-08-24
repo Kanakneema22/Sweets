@@ -5,13 +5,6 @@ Perfect for food bloggers, dessert shops, or front-end practice projects.
 
 ---
 
-##  Live Demo (Optional)
-
-*(If you have deployed this — e.g., Vercel, Netlify — insert the link below)*  
-**Live Demo:** `https://your-deployment-link`
-
----
-
 ##  Features
 
 - Clean, visually appealing sweets-themed layout  
